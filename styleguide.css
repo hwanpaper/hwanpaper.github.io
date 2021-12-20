@@ -1,0 +1,30 @@
+:root { 
+  --black: #000000;
+  --cod-gray: #0b0b0c;
+  --gray: #808080;
+  --jaguar: #010212;
+  --jaguar-2: #060315;
+  --licorice: #131313;
+  --telepossible-blue: #010f98;
+  --telepossible-red: #df3e3f;
+  --telepossible-sky: #6cbedc;
+  --telepossible-yellow: #ffb546;
+  --white: #ffffff;
+ 
+  --font-size-l: 55px;
+  --font-size-m: 25px;
+  --font-size-s: 24px;
+  --font-size-xs: 23px;
+  --font-size-xxs: 20px;
+  --font-size-xxxs: 18px;
+  --font-size-xxxxs: 16px;
+ 
+  --font-family-heebo: "Heebo", Helvetica;
+  --font-family-noto_serif: "Noto Serif", Helvetica;
+  --font-family-oswald: "Oswald", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-roboto_slab: "Roboto Slab", Helvetica;
+  --font-family-zen_kaku_gothic_antique: "Zen Kaku Gothic Antique", Helvetica;
+  --font-family-zen_kaku_gothic_new: "Zen Kaku Gothic New", Helvetica;
+  --font-family-zen_maru_gothic: "Zen Maru Gothic", Helvetica;
+}
